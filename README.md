@@ -1,9 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imag&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=imag&include_all_commits=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imag&layout=compact&theme=tokyonight">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=imag&theme=dark" />
 </a>
-
-<!-- https://github.com/anuraghazra/anuraghazra/blob/master/README.md >
