@@ -3,12 +3,14 @@
 My name is Andrew and I'm a backend engineer. You can find me on [![Twitter][1.1]][1]
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-blue?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/Code-TS-blue?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/Code-JS-blue?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
+![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Tool-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Cloud-Digital_ocean-blue?style=for-the-badge&logo=digitalocean)
 
 <!-- Icons -->
 [1.1]: http://i.imgur.com/tXSoThF.png
