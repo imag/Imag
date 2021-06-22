@@ -1,5 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 My name is Andrew and I'm a backend engineer. You can find me on [![Twitter][1.1]][1]
 
 [![Spotify](https://spotify-readme-stats.jazzzihd.vercel.app/api/spotify)](https://open.spotify.com/user/2lra1n0gz9miz5hlgrzsccmei)
