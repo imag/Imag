@@ -1,7 +1,5 @@
 My name is Andrew and I'm a backend engineer. You can find me on [![Twitter][1.1]][1]
 
-[![Spotify](https://spotify-readme-stats.jazzzihd.vercel.app/api/spotify)](https://open.spotify.com/user/2lra1n0gz9miz5hlgrzsccmei)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Rust-blue?style=for-the-badge&logo=rust)
 ![](https://img.shields.io/badge/Code-TS-blue?style=for-the-badge&logo=typescript)
