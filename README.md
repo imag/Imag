@@ -1,17 +1,27 @@
-My name is Andrew and I'm a backend engineer. You can find me on [![Twitter][1.1]][1]
+<img align="left" src="https://i.imgur.com/pR8MYKZ.png" alt="Capybara" width="320" /> 
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Rust-blue?style=for-the-badge&logo=rust)
-![](https://img.shields.io/badge/Code-TS-blue?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/Code-JS-blue?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Code-Go-blue?style=for-the-badge&logo=Go)
-![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Tool-PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/Cloud-Digital_ocean-blue?style=for-the-badge&logo=digitalocean)
+```
+❯ neofetch
+```
 
-<!-- Icons -->
-[1.1]: http://i.imgur.com/tXSoThF.png
+```csharp
+imag@github
+-------------------------
+OS: macOS Ventura 13.0
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: CA
+Languages: JavaScript, TypeScript, Go, Nim
+```
 
-<!-- Links -->
-[1]: https://twitter.com/44andreww
+<a href="https://twitter.com/44andreww">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/user/31glxwpabfui4vbsrmy7qnzliltu">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<a href="https://discordapp.com/users/568700694953984000">
+  <img src="https://img.shields.io/badge/Imag%235893-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
